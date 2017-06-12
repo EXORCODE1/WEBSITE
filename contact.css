@@ -166,6 +166,41 @@ margin-left:50px;
 width:200px;
 margin-left:50px;
 }
+#text
+{
+	display: -webkit-box;
+	-webkit-box-orient: horizontal; 
+ margin-left:200px; 
+ margin-right:150px;
+ height:70px;
+
+}
+#text p{font-family: calibri;
+	padding : 20px;
+	float: left;
+	color: black;
+margin-left:50px;
+}
+
+#form
+{
+	display: -webkit-box;
+	-webkit-box-orient: horizontal; 
+ margin-left:200px; 
+ margin-right:150px;
+ height:70px;
+margin-bottom:400px;
+}
+#form input{
+	float: none;
+	height: 30px;
+	width: 200px;
+	padding : 6px 6px;
+margin-bottom:20px;
+	
+}
+
+
  #bottombar{
 	width: 1500px;
 	height: 30px;
